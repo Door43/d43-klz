@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[klz:home|Door43 (klz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-klz|d43-klz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-klz/archive/master.zip|d43-klz.zip]]
+
+**Recent Changes**
+{{changes>ns = klz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/klz|Ethnologue data]]
+
